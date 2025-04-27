@@ -1,0 +1,17 @@
+{
+  "name": "xsys-lang",
+  "version": "1.0.0",
+  "description": "Expert System DSL",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Amine EL HALILI",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.11",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
